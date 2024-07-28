@@ -94,7 +94,7 @@ vim.g.maplocalleader = ';'
 vim.g.have_nerd_font = true
 
 -- Add key mappings defined in remap.lua
-require 'lua.remap'
+require 'remap'
 
 -- [[ Setting options ]]
 -- See `:help vim.opt`
